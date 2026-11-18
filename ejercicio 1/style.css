@@ -1,0 +1,36 @@
+body{
+    background-color: #cfc;
+    
+}
+h1 {
+    color: #f00;
+    font-size: 32px;
+  font-family: Verdana, Calibri, sans-serif;
+}
+p {
+    color: #00f;
+    font-size: 16px;
+   font-family: Georgia, Cambria, serif;
+}
+ul{
+    color: #00f;
+}
+h2{
+    font-size: 24px;
+    color: #a00;
+   font-family: Verdana, Calibri, sans-serif;
+}
+span{
+    color: #060;
+}
+.sub{
+    font-weight: bold;
+    color: #00f;
+    font-size: 20px;
+}
+.negrilla{
+    background-color: #000;
+    color: #fff;
+    font-style:italic;
+}
+

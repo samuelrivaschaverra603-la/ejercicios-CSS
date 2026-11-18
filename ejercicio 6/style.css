@@ -1,0 +1,13 @@
+
+button{
+    background-color: rgb(67, 67, 246);
+    color: aliceblue;
+    padding-left :20px;
+    padding-right: 20px;
+    margin: 2px;
+}
+button:HOVER{
+    background-color: rgb(32, 3, 196);
+    text-decoration: underline;text-decoration: none;
+    
+}

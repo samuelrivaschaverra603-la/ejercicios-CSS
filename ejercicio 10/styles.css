@@ -1,0 +1,32 @@
+
+#contenedor {
+    width: 60em;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+#columna-izquierda {
+    width: 16em;
+    float: left;
+}
+#columna-derecha {
+    width: 44em;
+    float: right;
+}
+#lista-contenido {
+    list-style-type: none; 
+    padding: 0;
+}
+#lista-contenido li {
+    float: left;
+    width: 13.5em;         
+    margin-right: 1.75em;  
+}
+#lista-contenido li:last-child {
+    margin-right: 0;
+}
+.limpiar {
+    clear: both;
+    }
+    

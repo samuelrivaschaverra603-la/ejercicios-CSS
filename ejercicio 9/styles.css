@@ -1,0 +1,29 @@
+
+#contenedor {
+    width: 960px;
+    margin: 0 auto;
+}
+#columna-izquierda {
+    width: 260px;
+    float: left;
+}
+#columna-derecha {
+    width: 700px;
+    float: right;
+}
+#lista-contenido {
+    list-style-type: none; 
+    padding: 0;
+}
+#lista-contenido li {
+    float: left;
+    width: 216px;          
+    margin-right: 25px;    
+}
+
+#lista-contenido li:last-child {
+    margin-right: 0;
+}
+.limpiar {
+    clear: both;
+}
